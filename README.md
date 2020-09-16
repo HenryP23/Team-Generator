@@ -14,7 +14,7 @@
 An easy way to form a team with information on each member.
 ## Installation
 You must have node installed
-run, npm install
+run, "npm install"
 ## Usage
 Dynamically generate a Team
 ## License
@@ -22,10 +22,10 @@ Dynamically generate a Team
 ## Creator
 Henry
 ## Tests
-run, node app
+run, "node app"
 ## Questions
 [Github Profile](https://github.com/HenryP23)  
 You can contact me through my email henryhparrish@gmail.com
 ## Visual
-
+https://www.youtube.com/watch?v=LKhlA3gzksQ&feature=youtu.be&ab_channel=Henry__
 
